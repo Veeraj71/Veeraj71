@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sign Language Recognition System**
 
-- 🌱 I’m currently learning **Penetration testing**
+- 🌱 I’m currently learning **Red Teaming**
 
 - 📫 How to reach me **panchalveeraj12@gmail.com**
 
