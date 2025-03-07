@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-Learning Module on IFP**
 
-- 🌱 I’m currently learning **Red Teaming**
+- 🌱 I’m currently learning **Pentesting**
 
 - 📫 How to reach me **panchalveeraj12@gmail.com**
 
