@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veeraj Panchal</h1>
 <h3 align="center">A cybersecurity enthusiast from India</h3>
 
-- 🔭 I’m currently working on **E-Learning Module on IFP**
+- 🔭 I’m currently working on **E-Learning Module in UniHub**
 
 - 🌱 I’m currently learning **Springboot**
 
