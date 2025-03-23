@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-Learning Module in UniHub**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Red Teaming**
 
 - 📫 How to reach me **panchalveeraj12@gmail.com**
 
