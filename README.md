@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Veeraj Panchal</h1>
-<h3 align="center">A cybersecurity enthusiast from India</h3>
+<h3 align="center">An AI/ML enthusiast from India</h3>
 
-- 🔭 I’m currently working on **E-Learning Module in UniHub**
+- 🔭 I’m currently working on **EcoTrace**
 
-- 🌱 I’m currently learning **Pentesting**
+- 🌱 I’m currently learning **NLP**
 
-- 📫 How to reach me **panchalveeraj12@gmail.com**
+- 📫 How to reach me **panchalveeraj5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
