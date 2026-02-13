@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veeraj Panchal</h1>
 <h3 align="center">An AI/ML enthusiast from India</h3>
 
-- 🔭 I’m currently working on **EcoTrace**
+- 🔭 I’m currently working on **HireSense**
 
 - 🌱 I’m currently learning **NLP**
 
