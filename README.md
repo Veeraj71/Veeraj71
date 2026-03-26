@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Veeraj Panchal</h1>
-<h3 align="center">An AI/ML enthusiast from India</h3>
+<h3 align="center">A DevOps enthusiast from India</h3>
 
-- 🔭 I’m currently working on **HireSense**
+- 🔭 I’m currently working on **TriviaAI**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Terraform**
 
-- 📫 How to reach me **panchalveeraj5@gmail.com**
+- 📫 How to reach me **panchalveeraj12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
