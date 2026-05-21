@@ -48,16 +48,10 @@ I am an engineering student and cloud enthusiast focused on building reliable, a
 
 ---
 
-### 📊 GitHub Activity Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" alt="Veeraj's GitHub Stats" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/veeraj-panchal-6396202a7/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veeraj panchal" height="30" width="40" /></a>
   <a href="https://instagram.com/panchalveeraj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panchalveeraj" height="30" width="40" /></a>
 </p>
+
+---
