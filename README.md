@@ -13,7 +13,7 @@
 I am an engineering student and cloud enthusiast focused on building reliable, automated systems. I bridge the gap between application development and infrastructure engineering by implementing **Infrastructure as Code (IaC)**, programmatic automation, and cloud cost optimization frameworks.
 
 - 🔭 **Active Engineering:** Developing **TriviaAI** and maintaining custom automated workflows.
-- ⚙️ **Latest Project Deployment:** Engineered **[aws-finops-automator](https://github.com/your-username/aws-finops-automator)** — a localized GitOps pipeline leveraging **Terraform** to provision HA networks alongside a **Python/Boto3** automated resource purge engine.
+- ⚙️ **Latest Project Deployment:** Engineered **[aws-finops-automator](https://github.com/Veeraj71/aws-finops-automator)** — a localized GitOps pipeline leveraging **Terraform** to provision HA networks alongside a **Python/Boto3** automated resource purge engine.
 - 🛠️ **System Focus:** Designing declarative pipelines, shell engineering, and configuration management.
 
 ---
